@@ -2,7 +2,6 @@ import classNames from 'classnames'
 
 
 function Button({children,text,variant='default'}){
-    console.log(children)
     return(
 
     

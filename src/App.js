@@ -10,7 +10,7 @@ function App() {
     <div  >
 
       <div style={{padding:20}}>
-        <Tab>
+        <Tab activeTab={1}>
           <Tab.Panel title="Profile">1. tab</Tab.Panel>
           <Tab.Panel title="About">2. tab</Tab.Panel>
           <Tab.Panel title="Settings">3. tab</Tab.Panel>
